@@ -2,9 +2,9 @@
 ### Comenzando 🚀
 ### Ingresamos a root.
 
->root
+root
 >
->clave
+clave
 
 #Creamos usuarios.
 adduser blanca
