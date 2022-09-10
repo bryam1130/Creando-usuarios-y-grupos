@@ -3,7 +3,7 @@
 ### Ingresamos a root.
 
 root >
-clave:>
+clave>
 
 #Creamos usuarios.
 adduser blanca
