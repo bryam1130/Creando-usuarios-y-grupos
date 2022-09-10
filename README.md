@@ -47,3 +47,6 @@ deluser [Nombre de usuario] [Nombre del grupo]
 
 ### Borrar grupo.
 groupdel [Nombre del grupo]
+
+## Autores ✒️
+* **Bryam Enrique Diaz Cruz** 
