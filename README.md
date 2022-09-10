@@ -1,6 +1,6 @@
 # Creando-usuarios-y-grupos
 ## Comenzando 🚀
-#Ingresamos a root.
+* **Ingresamos a root.**
 root
 clave:
 
