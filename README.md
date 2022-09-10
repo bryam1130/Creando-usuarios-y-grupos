@@ -1,17 +1,16 @@
 # Creando-usuarios-y-grupos
 ### Comenzando 🚀
 ### Ingresamos a root.
-
-root
+root:
 >
-clave
+clave:
 
-#Creamos usuarios.
+### Creamos usuarios.
 adduser blanca
 adduser mario
 adduser bryam
 
-#Comprobamos que los usuarios existen.
+### Comprobamos que los usuarios existen.
 * **cat /etc/passwd**
 
 #Creamos el grupo llamado casa.
