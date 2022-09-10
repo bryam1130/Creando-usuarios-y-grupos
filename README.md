@@ -28,7 +28,7 @@ adduser mario casa
 >
 adduser bryam casa
 
-### Comprobar que los usuarios se han añadido a casa
+### Comprobar que los usuarios se han añadido a casa.
 * **cat /etc/group**
 
 ### Modificamos el nombre al grupo casa, lo llamamos ahora familia.
