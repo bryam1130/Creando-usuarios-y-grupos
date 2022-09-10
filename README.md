@@ -17,7 +17,7 @@ cat /etc/passwd
 groupadd casa
 
 #Comprobamos que el grupo existe.
-cat /etc/group
+* **cat /etc/group
 
 #Agregamos los usuarios creados anteriormente al grupo llamado casa.
 adduser blanca casa
