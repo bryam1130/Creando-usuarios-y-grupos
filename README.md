@@ -3,6 +3,7 @@
 ### Ingresamos a root.
 
 >root
+>
 >clave
 
 #Creamos usuarios.
