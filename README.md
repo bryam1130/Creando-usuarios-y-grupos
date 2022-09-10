@@ -1,9 +1,9 @@
 # Creando-usuarios-y-grupos
 ### Comenzando 🚀
 ### Ingresamos a root.
-root:[]
+root:[Usuario creado]
 >
-clave:[]
+clave:[Contraseña creada]
 
 ### Creamos usuarios.
 adduser blanca
