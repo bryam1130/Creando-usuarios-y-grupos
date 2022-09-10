@@ -37,7 +37,7 @@ groupmod -n familia casa
 ### Comprobar que ahora el grupo casa paso a llamarce familia.
 * **cat /etc/group**
 
-### Otros comandos utiles:📌
+### Otros comandos utiles📌
 
 ### Borrar Usuario.
 userdel [Nombre de usuario]
