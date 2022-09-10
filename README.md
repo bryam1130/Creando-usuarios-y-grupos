@@ -11,10 +11,10 @@ adduser mario
 adduser bryam
 
 #Comprobamos que los usuarios existen.
-cat /etc/passwd
+* **cat /etc/passwd**
 
 #Creamos el grupo llamado casa.
-groupadd casa
+* **groupadd casa**
 
 #Comprobamos que el grupo existe.
 * **cat /etc/group**
