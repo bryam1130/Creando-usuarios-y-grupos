@@ -34,8 +34,8 @@ adduser bryam casa
 ### Modificamos el nombre al grupo casa, lo llamamos ahora familia.
 groupmod -n familia casa
 
-### Ver que ahora el grupo casa paso a llamarce familia.
-cat /etc/group
+### Comprobar que ahora el grupo casa paso a llamarce familia.
+* **cat /etc/group**
 
 ### Otros comandos utiles:
 
