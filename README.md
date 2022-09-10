@@ -7,7 +7,9 @@ clave:
 
 ### Creamos usuarios.
 adduser blanca
+>
 adduser mario
+>
 adduser bryam
 
 ### Comprobamos que los usuarios existen.
